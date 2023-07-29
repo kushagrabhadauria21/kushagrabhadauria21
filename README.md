@@ -9,6 +9,7 @@
 - 
 # 🌐 Socials
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kushagra-singh-bhadauria-b52252229)
+[![Hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/ranvj8?hr_r=1)
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
