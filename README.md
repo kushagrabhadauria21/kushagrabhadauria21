@@ -1,4 +1,3 @@
-![Hello, Caio, Namaste](https://gim.ac.in/sites/default/files/styles/banner_desktop_2500_x_817/public/2021-07/campus-life-min_2.jpg?h=684e6553&itok=g_7pk9AE)
 <h1 align="center">Hi 👋, I'm Kushagra Singh Bhadauria</h1>
 <h3 align="center">Data Analyst Rookie</h3>
 
