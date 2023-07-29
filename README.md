@@ -1,4 +1,4 @@
-![MasterHead](https://images.shiksha.com/mediadata/shikshaOnline/mailers/2021/naukri-learning/oct/27oct/what-is-data-analyst.jpg)
+![Hello, Caio, Namaste](https://images.shiksha.com/mediadata/shikshaOnline/mailers/2021/naukri-learning/oct/27oct/what-is-data-analyst.jpg)
 <h1 align="center">Hi 👋, I'm Kushagra Singh Bhadauria</h1>
 <h3 align="center">Data Analyst Rookie</h3>
 
