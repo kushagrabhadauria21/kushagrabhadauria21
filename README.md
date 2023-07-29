@@ -6,6 +6,10 @@
 
 - 📫 How to reach me **kushagra.bhadauria22b@gim.ac.in**
 
+- 
+# 🌐 Socials
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kushagra-singh-bhadauria-b52252229)
+
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
