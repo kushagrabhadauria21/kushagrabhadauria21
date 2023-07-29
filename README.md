@@ -1,10 +1,10 @@
-![Hello, Caio, Namaste](https://images.shiksha.com/mediadata/shikshaOnline/mailers/2021/naukri-learning/oct/27oct/what-is-data-analyst.jpg)
+![Hello, Caio, Namaste](https://gim.ac.in/sites/default/files/styles/banner_desktop_2500_x_817/public/2021-07/campus-life-min_2.jpg?h=684e6553&itok=g_7pk9AE)
 <h1 align="center">Hi 👋, I'm Kushagra Singh Bhadauria</h1>
 <h3 align="center">Data Analyst Rookie</h3>
 
-- 💬 Ask me about **Regression, Classification, Clustering, NLP and CNN**
+- 💬 Ask me about **Regression, Classification, Clustering, NLP & CNN**
 
-- 📫 How to reach me **kushagra.bhadauria22b@gim.ac.in**
+- 📫 Reach me at **kushagra.bhadauria22b@gim.ac.in**
 
 - 
 # 🌐 Socials
