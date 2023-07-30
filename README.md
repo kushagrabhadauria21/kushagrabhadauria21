@@ -20,10 +20,6 @@
 
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kushagrabhadauria21&show_icons=true&locale=en&layout=compact" alt="kushagrabhadauria21" /></p>
-
-
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kushagrabhadauria21&" alt="kushagrabhadauria21" /></p>
 
 
