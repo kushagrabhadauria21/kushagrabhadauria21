@@ -21,7 +21,7 @@
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kushagrabhadauria21&show_icons=true&locale=en&layout=compact" alt="kushagrabhadauria21" /></p>
-[![](https://visitcount.itsvg.in/api?id=yennhi95zz&icon=0&color=0)](https://visitcount.itsvg.in)
+
 
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kushagrabhadauria21&" alt="kushagrabhadauria21" /></p>
