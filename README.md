@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kushagra Singh Bhadauria</h1>
 <h3 align="center">Data Analyst Rookie</h3>
 
-- 💬 Ask me about **Regression, Classification, Clustering, NLP & CNN**
+- 💬 Ask me about **Regression, Classification, Clustering, NLP & CNN**nk
 
 - 📫 Reach me at **kushagra.bhadauria22b@gim.ac.in**
 
